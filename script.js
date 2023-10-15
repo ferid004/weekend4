@@ -11,7 +11,7 @@ amma işləyir və mənim ağlıma bunu belə həll eləmək gəldi :)
 // let min=9
 // let cem=0
 
-//ardicilliqla duzek
+// // //ardicilliqla duzek
 
 // arr.sort((a, b)=> a-b);
 // console.log(arr);
