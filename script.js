@@ -1,13 +1,13 @@
 // 1
 
-// const arr=[1,4,7,2]
-// let max=0
-// let min=9
-// let cem=0
+const arr=[1,4,7,2]
+let max=0
+let min=9
+let cem=0
 
-// ardicilliqla duzek
+//ardicilliqla duzek
 
-// arr.sort(function(a, b){return a-b});
+// arr.sort((a, b)=> a-b);
 // console.log(arr);
 
 // // evvelinden bini silek
@@ -23,6 +23,7 @@
 // console.log(cem);
 
 //2
+
 
 
 
